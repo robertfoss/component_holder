@@ -1,5 +1,6 @@
 # Component Holder
-This is a simple electronics component holder.
+A simple electronics component organizer.
+
 ![Alt text](/../media/v1_01.jpg?raw=true "v1")
 ![Alt text](/../media/prototype_2mm.jpg?raw=true "2mm acrylic prototype")
 
