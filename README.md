@@ -5,7 +5,7 @@ A simple electronics component organizer.
 
 # Parts
 ## Acrylic
- * 3mm sheet of acrylic >8x16cm
+ * 3mm sheet acrylic >8x16cm
 
 ## Brass standoffs
  * 6x M3 5mm  female-male
